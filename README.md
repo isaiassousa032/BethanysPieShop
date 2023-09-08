@@ -50,7 +50,7 @@ Para executar o projeto localmente, siga as etapas abaixo:
 3. Configure a conexão com o banco de dados SQL Server no arquivo `appsettings.json`.
 4. Execute as migrações do Entity Framework para criar o banco de dados: `dotnet ef database update`.
 5. Inicie o aplicativo com o comando: `dotnet run`.
-6. Acesse o aplicativo em seu navegador em `http://localhost:5000`.
+6. Acesse o aplicativo em seu navegador em `http://localhost:####`.
 
 ## Contribuição
 
@@ -62,4 +62,4 @@ Este projeto está sob a licença [MIT](LICENSE).
 
 ---
 
-O BethanysPieShop é um projeto que combina a tradição das tortas artesanais com a inovação tecnológica. Esperamos que você desfrute da experiência culinária oferecida por este site. Para obter mais informações ou entrar em contato, visite [BethanysPieShop.com](https://www.bethanyspieshop.com).
+O BethanysPieShop é um projeto que combina a tradição das tortas artesanais com a inovação tecnológica. Esperamos que você desfrute da experiência culinária oferecida por este site. Para obter mais informações ou entrar em contato, visite [BethanysPieShop.com](https://bethanyspieshopbr.azurewebsites.net/).
